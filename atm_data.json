@@ -1,0 +1,14 @@
+{
+    "users": {
+        "Mark Neil": {
+            "pin": "1234",
+            "balance": 48500.0,
+            "transactions": [
+                "Deposited: $50000.0",
+                "Withdrew: $500.0",
+                "Withdrew: $1000.0"
+            ]
+        }
+    },
+    "transactions": []
+}
