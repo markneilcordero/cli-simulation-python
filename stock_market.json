@@ -1,0 +1,17 @@
+{
+    "balance": 8000.0,
+    "portfolio": {},
+    "buy_orders": [
+        [
+            100.0,
+            "AAPL",
+            5
+        ],
+        [
+            150.0,
+            "AAPL",
+            10
+        ]
+    ],
+    "sell_orders": []
+}
